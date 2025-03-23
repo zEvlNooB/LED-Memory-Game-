@@ -10,7 +10,7 @@ This is an interactive color memory game using Arduino. The game lights up a seq
 - Jumper wires
 
 ## Circuit Diagram:
-![Circuit Diagram](schematics/circuit.png)
+In Circuit Sketch File 
 
 ## How to Use:
 1. Upload the code to your Arduino board.
